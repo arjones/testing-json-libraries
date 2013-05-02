@@ -7,8 +7,9 @@ So I have decided to start implementing and trying to figure out which library i
 
 ## The Winner is Play2 Libs + Scala 2.10
 
-Trying 3 implementations, the one that supports inner case-class and make me write less code is **Play2**. 
+Trying 3 implementations, the one that supports inner case-class and make me write less code was **Play2**. 
 
+It is true the difference between SprayJson and Play2 were just a few keystrokes, probably someone would prefer SprayJson to avoid the huge dependecies, once Play.Libs are tight coupled with the rest of the framework.
 
 ## Important 
 
