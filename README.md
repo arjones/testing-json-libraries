@@ -1,12 +1,9 @@
-# README
+# Quick and Dirty JSON Libraries test
 
-Scala sample project using Scala and SBT.
+I found a lot of information on using different libraries for serialize/deserialize JSON, but I couldn't find an article or code where I had an evalutaion of each library.
 
-## How to Use
+So I have decided to start implementing and trying to figure out which library is better suitable to my case.
 
-To run and test it use SBT invoke:
+Hope it can help someone else!
 
-	sbt run
-
-
-
+@arjones
